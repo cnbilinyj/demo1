@@ -41,9 +41,15 @@
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	background-color: var(--white);
 }
 
 .content h1 {
 	font-size: 7vw;
-	color: var(--white);
+	color: var(--black);
+}
+
+#toggle-btn {
+	height: 70px;
+	width: 70px;
 }
