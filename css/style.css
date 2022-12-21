@@ -52,4 +52,10 @@
 #toggle-btn {
 	height: 70px;
 	width: 70px;
+	line-height: 69px;
+	border-radius: 50%;
+	background-color: var(--black);
+	color: var(--white);
+	font-size: 30px;
+	cursor: pointer;
 }
