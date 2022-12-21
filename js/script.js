@@ -5,7 +5,7 @@ let darkMode = localStorage.getItem("dark-mode");
 const enableDarkmode = () =>{
     toggleBtn.classList.replace("fa-sun", "fa-moon");
     body.classList.add("dark");
-    localStorage.setItem("dark-mode", "")
+    localStorage.setItem("dark-mode", "enable")
 }
 
 const disableDarkmode = () =>{
