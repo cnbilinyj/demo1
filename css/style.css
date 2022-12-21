@@ -58,4 +58,8 @@
 	color: var(--white);
 	font-size: 30px;
 	cursor: pointer;
+	text-align: center;
+	position: fixed;
+	top: 20px;
+	right: 30px;
 }
